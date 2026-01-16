@@ -1,1 +1,39 @@
+========================================
+       SALES ANALYTICS REPORT
+Generated: 2026-01-16 14:11:16
+Records Processed: 71
+========================================
 
+OVERALL SUMMARY
+----------------------------------------
+Total Revenue: ₹0.00
+Total Transactions: 71
+Average Order Value: ₹0.00
+Date Range: N/A to N/A
+
+REGION-WISE PERFORMANCE
+----------------------------------------
+Region               Sales    Transactions
+N/A        ₹          0.00              71
+
+TOP 5 PRODUCTS
+----------------------------------------
+Rank  Product                Qty         Revenue
+
+TOP 5 CUSTOMERS
+----------------------------------------
+Rank  Customer            Total Spent     Orders
+1     N/A             ₹          0.00         71
+
+DAILY SALES TREND
+----------------------------------------
+Date                 Revenue Transactions   Unique Customers
+N/A          ₹          0.00           71                  1
+
+API ENRICHMENT SUMMARY
+----------------------------------------
+Total products enriched: 0
+Success rate: 0.00%
+Unmatched products: N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A
+
+=== END OF REPORT ===
